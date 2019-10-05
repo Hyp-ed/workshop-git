@@ -1,9 +1,0 @@
-Clone remote repo https://github.com/Hyp-ed/workshop-git.git
-Create a new branch from master. Name it workshop-<name>. Do not forget to replace <name> with your name.
-Create a folder named <name>.
-Create a file feature.txt in the newly created folder. You can write anything to the new file. Imagine you are adding the next feature to the HYPED code-base here.
-Commit and push.
-Merge your new branch back into master.
-Push changes.
-Delete your feature branch.
-
