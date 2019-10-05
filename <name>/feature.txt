@@ -1,4 +1,0 @@
-int self_destruct() 
-{
-    return 0/0;
-}
