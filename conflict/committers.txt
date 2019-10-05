@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 EShaan
-=======
 LEONARD A ROOKIE
->>>>>>> 666539f8496352058713d105781773f4128a6fb5
 HYPED
 Umut Kartal
 Michal Pitr
@@ -11,3 +9,4 @@ Robertas
 Justas
 HantaoZhong
 Yufei Zhan
+Anukrat
