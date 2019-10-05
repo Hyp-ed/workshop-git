@@ -1,13 +1,20 @@
-<<<<<<< HEAD
+Thanakrit Anutrakulchai
 EShaan
-=======
 LEONARD A ROOKIE
->>>>>>> 666539f8496352058713d105781773f4128a6fb5
 HYPED
+<<<<<<< HEAD
 Mohamad Harah
+=======
+Tarik Akcay
+Alex Chelba
+Umut Kartal
+>>>>>>> 154db79f0bd0e23cadffde1790661ea71670c317
 Michal Pitr
 DanGrizzly
 Robertas
 Justas
+hrishikesh16
 HantaoZhong
-
+Yufei Zhan
+Anukrat
+Elisa
